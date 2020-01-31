@@ -1,0 +1,11 @@
+(c) Landing Page Framework (LPF) — http://lpf.maxsite.com.ua/
+(c) MAX — http://maxsite.org/
+
+Made in Ukraine
+
+License: Crimea this Ukraine! | Крым — это Украина!
+
+Требования по использованию LPF
+
+1. Запрещается удалять этот файл лицензии.
+2. Запрещается менять файл lpf-core/engine/engine.php.
